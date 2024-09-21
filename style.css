@@ -265,14 +265,18 @@ footer{
     color: rgb(160, 160, 1600);
     text-align: center;
     .maps {
+      position: relative;
+      top: 20px;
       display: flex;
-      margin-top: 100px;
+      /* margin-top: 120px; */
       width: 90%;
       height: 200px;
       margin: 0 auto;
     }
     .location {
-      margin-top: -20px;
+      width: 100%;
+      margin-top: -10px;
+      margin-left: -35px;
       font-size: 24px;
       font-family: "Comfortaa", sans-serif;
       font-optical-sizing: auto;
@@ -288,9 +292,9 @@ footer{
 }
 
 @media (max-width: 650px) {
-  .body {
+  /* .body {
     background-color: #ffffff;
-  }
+  } */
   .instagram-wrapper {
     display: 90%;
   }
