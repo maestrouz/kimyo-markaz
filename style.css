@@ -268,15 +268,14 @@ footer{
       position: relative;
       top: 20px;
       display: flex;
-      /* margin-top: 120px; */
       width: 90%;
       height: 200px;
       margin: 0 auto;
     }
     .location {
-      width: 100%;
+      width: 90%;
       margin-top: -10px;
-      margin-left: -35px;
+      margin-left: -20px;
       font-size: 24px;
       font-family: "Comfortaa", sans-serif;
       font-optical-sizing: auto;
