@@ -293,9 +293,7 @@ footer{
 }
 
 @media (max-width: 650px) {
-  /* .body {
-    background-color: #ffffff;
-  } */
+
   .instagram-wrapper {
     display: 90%;
   }
@@ -305,6 +303,7 @@ footer{
   }
 
   .instagram-continue {
+    margin-top: -70px;
     width: 100%;
   }
 
